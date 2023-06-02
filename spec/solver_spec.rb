@@ -36,7 +36,3 @@ describe Solver do
   end
 
 end
-# When N is divisible by 3, return "fizz".
-# When N is divisible by 5, return "buzz".
-# When N is divisible by 3 and 5, return "fizzbuzz".
-# Any other case, return N as a string (e.g. say N is 7 then return "7").
