@@ -34,5 +34,4 @@ describe Solver do
   it 'test when n is divided by 3 should return fizz' do
     expect(@solver.fizzbuzz(6)).to eq('fizz')
   end
-
 end
